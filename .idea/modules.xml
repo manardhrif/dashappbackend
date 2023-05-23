@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/supportportal/supportportal.iml" filepath="$PROJECT_DIR$/supportportal/supportportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/supportportal (2).iml" filepath="$PROJECT_DIR$/.idea/supportportal (2).iml" />
+    </modules>
+  </component>
+</project>
